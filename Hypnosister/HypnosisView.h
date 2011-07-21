@@ -10,4 +10,5 @@
 
 @interface HypnosisView : UIView
 
+- (UIColor *) getRandomColor;
 @end
